@@ -46,3 +46,46 @@
     position: fixed;
     background-color: cyan;
 }
+
+.parrafoRojo {
+    color: red;
+}
+
+.parrafoBlanco {
+    color: white;
+}
+
+.parrafoCentrado {
+    text-align: center;
+}
+
+/*p {
+    font-size: 20px;
+}*/
+
+/*p, h1, h2 {
+    font-size: 50px;
+}*/
+
+div.parrafoBlanco p {
+    font-size: 25px;
+}
+
+body {
+    background-color: gray;
+}
+
+a:visited {
+    font-size: 30px;
+}
+
+a:hover {
+    background-color: green;
+    color: white;
+    transition: 1s;
+}
+
+a:active {
+    background-color: purple;
+    color: white;
+}
