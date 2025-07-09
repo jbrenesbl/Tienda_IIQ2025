@@ -13,9 +13,9 @@ public class IndexController {
         return "index"; // Nombre de la vista en templates a mostrar
     }
     
-    @RequestMapping("/informacion") // Url al que responde
-    public String info() {
-        return "info";  // Nombre de la vista en templates a mostrar
-    }
+//    @RequestMapping("/informacion") // Url al que responde
+//    public String info() {
+//        return "info";  // Nombre de la vista en templates a mostrar
+//    }
     
 }
